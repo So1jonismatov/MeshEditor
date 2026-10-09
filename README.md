@@ -1,21 +1,6 @@
-# Introduction
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.
+![Image of sample glb file](image.png)
+![Image of Erronous Dragon Dispersion model](image-1.png)
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Tried to implement the Khronos PBR architecture in a custom OpenGL renderer. The renderer is capable of loading glTF 2.0 models and applying various material extensions, including clearcoat, sheen, anisotropy, iridescence, transmission, volume, index of refraction, specular, emissive strength, and diffuse transmission.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests.
-
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better.
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
-# MeshEditor
+but the renderer is still a work in progress. I guess i will never finish it up , so feel free to use it as you wish.
